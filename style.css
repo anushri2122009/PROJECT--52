@@ -1,0 +1,296 @@
+.main{
+    background-color: rgb(127, 255, 212);
+}
+
+body{
+    background-color:rgb(127, 255, 212);
+}
+
+.main2{
+    background-color:rgb(240, 255, 255);
+} 
+
+.main3{
+    background-color: antiquewhite;
+}
+
+.container1{
+    background-color:lightsalmon;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.container1 img{
+    border:2px solid black;
+    border-radius: 50px;
+}
+
+.container2{
+    background-color:lightsalmon;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.container2     img{
+    border:2px solid black;
+    border-radius: 50px;
+}
+
+.item1{
+    background-color: lightskyblue;
+    border-radius:20px;
+
+    width:400px; 
+}
+
+.item2{
+    background-color: lightpink;
+    border-radius:20px;
+
+    width:400px;
+}
+
+.item3{
+    background-color: lightskyblue;
+    border-radius:20px;
+
+    width:400px;
+}
+
+.item4{
+    background-color:lightpink;
+    border-radius:20px;
+
+    width:400px;
+}
+
+.item5{
+    background-color: lightskyblue;
+    border-radius:20px;
+
+    width:400px;
+}
+
+.item6{
+    background-color: lightpink;
+    border-radius:20px;
+
+    width:400px;
+}
+
+.ab{
+    background-color:rgb(127, 255, 212);
+}
+
+.sub1{
+    background-color: rgb(245,255,250);
+}
+
+.sub2{
+    background-color: rgb(245,255,250);
+}
+
+.sub3{
+    background-color: rgb(245,255,250);
+}
+
+.sub4{
+    background-color: rgb(245,255,250);
+}
+
+.portfolio{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.portfolio img{
+    border:2px solid black;
+    border-radius: 50px;
+}
+
+.op1{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.op1 img{
+    border:2px solid black;
+    border-radius: 50px;
+}
+
+.op2{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.op2 img{
+    border:2px solid black;
+    border-radius: 50px;
+}
+
+.fu{
+    background-color:rgb(224,255,255);
+}
+
+.fuC{
+    background-color:rgb(240, 255, 255);
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.fuC img{
+    border:2px solid black;
+    border-radius: 50px;
+}
+
+.item1{
+    position: relative;
+}
+
+.item1 p{
+    position: absolute;
+    top:37%;
+    left:35%;
+    opacity:0;
+}
+
+.item1:hover p{
+    opacity:1;
+}
+
+.item1:hover img{
+    opacity:0.3;
+}
+
+.item2{
+    position: relative;
+}
+
+.item2 p{
+    position: absolute;
+    top:37%;
+    left:29.5%;
+    opacity:0;
+}
+
+.item2:hover p{
+    opacity:1;
+}
+
+.item2:hover img{
+    opacity:0.3;
+}
+
+.item3{
+    position: relative;
+}
+
+.item3 p{
+    position: absolute;
+    top:38%;
+    left:40%;
+    opacity:0;
+}
+
+.item3:hover p{
+    opacity:1;
+}
+
+.item3:hover img{
+    opacity:0.3;
+}
+
+.item4{
+    position: relative;
+}
+
+.item4 p{
+    position: absolute;
+    top:30%;
+    left:28%;
+    opacity:0;
+}
+
+.item4:hover p{
+    opacity:1;
+}
+
+.item4:hover img{
+    opacity:0.3;
+}
+
+.item5{
+    position: relative;
+}
+
+.item5 p{
+    position: absolute;
+    top:31%;
+    left:32%;
+    opacity:0;
+}
+
+.item5:hover p{
+    opacity:1;
+}
+
+.item5:hover img{
+    opacity:0.3;
+}
+
+.item6{
+    position: relative;
+}
+
+.item6 p{
+    position: absolute;
+    top:31%;
+    left:31%;
+    opacity:0;
+}
+
+.item6:hover p{
+    opacity:1;
+}
+
+.item6:hover img{
+    opacity:0.3;
+}
+
+.op1{
+    position: relative;
+}
+
+.op1 p{
+    position: absolute;
+    top:42%;
+    left:34%;
+    opacity:0;
+}
+
+.op1:hover p{
+    opacity:1;
+}
+
+.op1:hover img{
+    opacity:0.3;
+}
+
+.op2{
+    position: relative;
+}
+
+.op2 p{
+    position: absolute;
+    top:42%;
+    left:34%;
+    opacity:0;
+}
+
+.op2:hover p{
+    opacity:1;
+}
+
+.op2:hover img{
+    opacity:0.3;
+}
